@@ -1,0 +1,6 @@
+.heading{font-family: 'Times New Roman', Times, serif; color: red;}
+        #h-2{color: blue;}
+        #h-3{background-color: black;}
+        #h-4{border: 1px solid black; border-radius: 12px;}
+.container{padding-left: 50%;}  
+        div{width: 100px; height: 100px; color: green; padding: 10px;}
